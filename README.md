@@ -1,0 +1,2 @@
+# wsclient
+WebSocket html client
